@@ -1,0 +1,6 @@
+{
+    "name": "HINTS Parser",
+    "hide_default_branch": true,
+    "render_readme": true,
+    "homeassistant": "2024.2.0"
+}

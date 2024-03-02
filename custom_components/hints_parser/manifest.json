@@ -1,0 +1,13 @@
+{
+    "domain": "hints_parser",
+    "name": "HINTS Parser",
+    "documentation": "https://github.com/cociweb/hacs-hints_parser",
+    "issue_tracker": "https://github.com/cociweb/hacs-hints_parser/issues",
+    "icon": "images/icon.png",
+    "dependencies": [],
+    "codeowners": ["@cociweb"],
+    "requirements": ["requests"],
+    "version": "1.0.0",
+    "homeassistant": "2024.2.0",
+    "config_flow": true
+}

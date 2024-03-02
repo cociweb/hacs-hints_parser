@@ -1,0 +1,21 @@
+{
+    "config": {
+        "step": {
+            "user": {
+                "title": "Configure Hints-Parser",
+                "description": "Please select the Domains and whether to expose Areas. Also decide, that to include all of the Entities or just the assist supported ones.",
+                "data": {
+                    "selected_domains": "Select Domains",
+                    "only_exposed_entities": "Expose only assist supported Entities",
+                    "area_check": "Include Areas"
+                }
+            }
+        },
+        "error": {
+           "single_instance_allowed": "Only a single instance is allowed."
+        },
+        "abort": {
+           "single_instance_allowed": "Only a single instance is allowed."
+        }
+    }
+}
